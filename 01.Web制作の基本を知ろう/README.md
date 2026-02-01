@@ -87,7 +87,7 @@ Microsoftが開発している**Visual Studio Code（VScode）と**いうエデ�
 ```html
 <!-- index.html -->
 
-Hello! RareTECH!
+
 
 ```
 
